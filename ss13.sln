@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Station 13", "src\Space Station 13.csproj", "{589331EB-5BFD-479D-9E45-7CBB9E37032F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{589331EB-5BFD-479D-9E45-7CBB9E37032F}.Debug|x86.ActiveCfg = Debug|x86
+		{589331EB-5BFD-479D-9E45-7CBB9E37032F}.Debug|x86.Build.0 = Debug|x86
+		{589331EB-5BFD-479D-9E45-7CBB9E37032F}.Release|x86.ActiveCfg = Release|x86
+		{589331EB-5BFD-479D-9E45-7CBB9E37032F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D98D92-959A-45CB-A131-5B3845F02021}
+	EndGlobalSection
+EndGlobal
